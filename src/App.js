@@ -10,23 +10,7 @@ function App() {
           <div className="music">
             <h2>Music</h2>
             <div className="music-vid-holder">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/LWS5xDEJsq8?si=cyvZ_wX7ohEcTNWw"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen></iframe>
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/rH3PXvVEwjM?si=nSIdHo_yBKOE9Kot"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen></iframe>
               <iframe width="560" height="315" src="https://www.youtube.com/embed/HYUiahljMMc?si=YdXcWjDw2vaNHLXw"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen></iframe>
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/a6Fl1Xl1ogg?si=rjXbxJZJCi1GowEb"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen></iframe>
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/ir_PRErPnb0?si=smlnYhN7IYPmgZVW"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -38,11 +22,29 @@ function App() {
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/LWS5xDEJsq8?si=cyvZ_wX7ohEcTNWw"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/rH3PXvVEwjM?si=nSIdHo_yBKOE9Kot"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/a6Fl1Xl1ogg?si=rjXbxJZJCi1GowEb"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/ir_PRErPnb0?si=smlnYhN7IYPmgZVW"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
             </div>
+            <div><h2>Timer</h2><embed src='https://pomofocus.io/'></embed></div>
           </div>
           <div className="locale-body">
             <h2>Locale</h2>
             <div className="locale-vid-holder" >
+              <iframe width="1680" height="945"  src="https://www.youtube.com/embed/45VaJGj-cnE?si=AGEifC3b7xBOJqAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"></iframe>
               <iframe width="1680" height="945" src="https://www.youtube.com/embed/9CJLtzzUphU?si=bH-Feh_JffMrGb3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"></iframe>
               <iframe width="1680" height="945" src="https://www.youtube.com/embed/0nTO4zSEpOs?si=Slf-t52Au4AGBC0z"
                 title="YouTube video player" frameborder="0"
