@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Virtual Ambient Workspace Dashboard</h1>
+        <h1>Virtual Ambient Workspace</h1>
         <div className="main">
           <div className="music">
             <h2>Music</h2>
@@ -39,12 +39,16 @@ function App() {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
             </div>
-            <div><h2>Timer</h2><embed src='https://pomofocus.io/'></embed></div>
+            <div>
+              <h2>Timer</h2>
+              <embed src='https://pomofocus.io/'>
+              </embed>
+            </div>
           </div>
           <div className="locale-body">
             <h2>Locale</h2>
             <div className="locale-vid-holder" >
-              <iframe width="1680" height="945"  src="https://www.youtube.com/embed/45VaJGj-cnE?si=AGEifC3b7xBOJqAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"></iframe>
+              <iframe width="1680" height="945" src="https://www.youtube.com/embed/45VaJGj-cnE?si=AGEifC3b7xBOJqAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"></iframe>
               <iframe width="1680" height="945" src="https://www.youtube.com/embed/9CJLtzzUphU?si=bH-Feh_JffMrGb3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"></iframe>
               <iframe width="1680" height="945" src="https://www.youtube.com/embed/0nTO4zSEpOs?si=Slf-t52Au4AGBC0z"
                 title="YouTube video player" frameborder="0"
