@@ -42,16 +42,16 @@ function App() {
           </div>
           <div className="locale-body">
             <h2>Locale</h2>
-            <div className = "locale-vid-holder" >
-              <iframe width="1680" height="945" src="https://www.youtube.com/embed/9CJLtzzUphU?si=bH-Feh_JffMrGb3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div className="locale-vid-holder" >
+              <iframe width="1680" height="945" src="https://www.youtube.com/embed/9CJLtzzUphU?si=bH-Feh_JffMrGb3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"></iframe>
               <iframe width="1680" height="945" src="https://www.youtube.com/embed/0nTO4zSEpOs?si=Slf-t52Au4AGBC0z"
                 title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen></iframe>
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share
+                fullscreen"></iframe>
               <iframe width="1680" height="945" src="https://www.youtube.com/embed/9CJLtzzUphU?si=bH-Feh_JffMrGb3_"
                 title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen></iframe>
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share
+                fullscreen"></iframe>
             </div>
           </div>
         </div>
