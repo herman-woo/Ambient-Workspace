@@ -13,11 +13,10 @@ class LocaleComponent extends Component {
                         list.map((link) => {
                             return <iframe className="locale-iframe" src={link}
                                 title="YouTube video player" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
                             ></iframe>
                         })
                     }
-                    
                 </div>
             </div>
         )
