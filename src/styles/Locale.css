@@ -1,0 +1,18 @@
+.locale-iframe {
+    height: 100%;
+    width: 100%;
+}
+
+.locale-body {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+    margin-left: 2%;
+    width: 65vw;
+    height: 75vh;
+}
+.locale-video-list {
+    height: 100%;
+    width: 100%;
+    overflow: scroll;
+}
