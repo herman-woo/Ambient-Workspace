@@ -1,6 +1,9 @@
 {
     "music-links": [
         "https://www.youtube.com/embed/HYUiahljMMc?si=xwXBPVTVBfa36663",
+        "https://www.youtube.com/embed/3jWRrafhO7M?si=NcmYyfCOPOcaOTBG",
+        "https://www.youtube.com/embed/MK8NphFMu7U?si=O7Nr3WDp5NFx6ETg",
+        "https://www.youtube.com/embed/fhdX3Wcxwas?si=NX9HbjkLWVH6RMyS",
         "https://www.youtube.com/embed/8GYL6c_GTE0?si=v7-vyjvNBElBvwLg",
         "https://www.youtube.com/embed/NJuSStkIZBg?si=NczXE6aKqCMHjjma",
         "https://www.youtube.com/embed/LWS5xDEJsq8?si=cyvZ_wX7ohEcTNWw",
@@ -14,9 +17,12 @@
         "https://www.youtube.com/embed/9CJLtzzUphU?si=bH-Feh_JffMrGb3_",
         "https://www.youtube.com/embed/GNy4I7WS6Fo?si=Btu1VjhlOcmH7jyl",
         "https://www.youtube.com/embed/CQw7MN7_e7o?si=iX1rkLAyO8PzySub",
-        "https://www.youtube.com/embed/ir_PRErPnb0?si=smlnYhN7IYPmgZVW"
-    ],
+        "https://www.youtube.com/embed/ir_PRErPnb0?si=smlnYhN7IYPmgZVW",
+        "https://www.youtube.com/embed/0UlOohkMZnI?si=fbGwkjKsjPLH5LWO",
+        "https://www.youtube.com/embed/Q9DzUVFwFMM?si=ATTfcavuOgD9YJ_5",
+        "https://www.youtube.com/embed/1ygvOzAyOag?si=TPhi1nxNNrhHEiYR" 
 
+    ],
     "general-theme":{
         "music-links": [
             "https://www.youtube.com/embed/HYUiahljMMc?si=xwXBPVTVBfa36663",
@@ -25,7 +31,8 @@
             "https://www.youtube.com/embed/LWS5xDEJsq8?si=cyvZ_wX7ohEcTNWw",
             "https://www.youtube.com/embed/rH3PXvVEwjM?si=nSIdHo_yBKOE9Kot",
             "https://www.youtube.com/embed/a6Fl1Xl1ogg?si=rjXbxJZJCi1GowEb",
-            "https://www.youtube.com/embed/ir_PRErPnb0?si=smlnYhN7IYPmgZVW"
+            "https://www.youtube.com/embed/ir_PRErPnb0?si=smlnYhN7IYPmgZVW",
+            "https://www.youtube.com/embed/0jZNKV5ROBM?si=AtIFIA1Li7N4aXpr"
         ],
         "locale-links": [
             "https://www.youtube.com/embed/45VaJGj-cnE?si=AGEifC3b7xBOJqAo",
